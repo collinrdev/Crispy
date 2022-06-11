@@ -13,8 +13,8 @@ You need only download the program from github and run the `main.py` program wit
     python3 main.py
 ## Credits
 **Isiah Stevens**
-@IsiahStevens for coming up with the idea for this program and Developing it.
+[@IsiahStevens](https://github.com/IsiahStevens) for coming up with the idea for this program and Developing it.
 
 
 **Collin Rittschof**
-@collinrdev for writing the technical documentation and contributing to development
+[@collinrdev](https://github.com/collinrdev) for writing the technical documentation and contributing to development
